@@ -1,0 +1,7 @@
+.experience__box {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    
+    flex-direction: row-reverse;
+}

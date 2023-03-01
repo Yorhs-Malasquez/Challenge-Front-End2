@@ -1,0 +1,36 @@
+.formcontato__input {
+    font-size: 14px;
+    width: 90%;
+    margin-top: 18px;
+    margin-left: 15px;
+    padding: 5px;
+    outline: none;
+    border: 0;
+
+}
+.formcontato__input:focus ~ .label-flotante{
+    top: 3px;
+    bottom: 15px;
+    left: 20px;
+    font-size: 12px;
+
+}
+
+.formcontato__input:not(:focus):valid ~ .label-flotante{
+    top: 3px;
+    bottom: 15px;
+    left: 20px;
+    font-size: 12px;
+}
+.label-flotante{
+    color: #686868;
+    position: absolute;
+    pointer-events: none;
+    left: 20px;
+    top: 15px;
+    transition: .2s ease all;
+    -webkit-transition: .2s ease all;
+    -moz-transition: .2s ease all;
+    -ms-transition: .2s ease all;
+    -o-transition: .2s ease all;
+}

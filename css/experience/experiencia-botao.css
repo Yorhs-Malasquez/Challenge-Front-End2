@@ -1,0 +1,22 @@
+.experiencia__botao--repo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1rem;
+    color: #2A7AE4;
+    border: 1px solid #2A7AE4;
+    padding: 0.75rem 1rem;
+}
+
+.experience__botao--demo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1rem;
+    color: #FFFFFF;
+    padding: 0.75rem 1rem;
+    background: #2A7AE4;
+    border: none;
+}

@@ -1,0 +1,25 @@
+.formcontato__botao {
+    /*position: absolute;
+    width: 40%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: #2A7AE4;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    left: 0;
+    top: 100%;
+    margin: 40px 0 0;*/
+
+}
+
+.formcontato__botao:hover {
+   /* background: #0d99ff;
+    transition: 1s all ease-out;
+    -webkit-transition: 1s all ease-out;
+    -moz-transition: 1s all ease-out;
+    -ms-transition: 1s all ease-out;
+    -o-transition: 1s all ease-out;*/
+}

@@ -1,0 +1,13 @@
+.hobbies__box {
+    display: flex;
+    width: 11rem;
+    height: 10.875rem;
+    background: #FFFFFF;
+    align-items: end;
+    justify-content: left;
+    text-align: left;
+}
+
+.hobbies__box ul {
+    padding: 0 1rem;
+}

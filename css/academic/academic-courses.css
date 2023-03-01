@@ -1,0 +1,6 @@
+.academic__courses {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 4.375rem 0 4.375rem;
+}
